@@ -19,6 +19,6 @@
       <p> Future prospect or development of this project are: I will be adding more styling to the project cards and get a background with a more modern look to it.</p>
       <h2 id="screeenshot"># Screenshot or Video</h2>
       <h2 id="git"># GitHub Pages</h2>
-      <a href=https://qnguyen-hub.github.io/Profolio-react/>View the GitHub Pages</a>
+      <a href=https://qnguyen-hub.github.io/Portfolio-react/>View the GitHub Pages</a>
       <h2># GitHub Repository</h2>
-      <a href=https://github.com/QNguyen-hub/Profolio-react>View the GitHub Repository</a>
+      <a href=https://github.com/QNguyen-hub/Portfolio-react>View the GitHub Repository</a>
