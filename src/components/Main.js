@@ -27,10 +27,7 @@ export default function Main() {
         <p>Quy Nguyen</p>
         <Navigation currentPage={currentPage} selectedPage={selectedPage} />
       </div>
-      <div
-        className="container d-flex flex-wrap justify-content-evenly"
-        style={{ border: "1px solid red" }}
-      >
+      <div className="container d-flex flex-row flex-wrap justify-content-evenly">
         {renderPage()}
       </div>
     </div>
