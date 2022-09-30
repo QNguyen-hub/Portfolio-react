@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Profolio-react/static/css/main.700f4466.css",
+    "main.js": "/Profolio-react/static/js/main.20ea37a0.js",
+    "index.html": "/Profolio-react/index.html",
+    "main.700f4466.css.map": "/Profolio-react/static/css/main.700f4466.css.map",
+    "main.20ea37a0.js.map": "/Profolio-react/static/js/main.20ea37a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700f4466.css",
+    "static/js/main.20ea37a0.js"
+  ]
+}
